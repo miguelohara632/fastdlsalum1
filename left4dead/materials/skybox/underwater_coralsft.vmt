@@ -1,0 +1,7 @@
+"sky"
+{
+"$hdrbaseTexture" "skybox/underwater_coralsft"
+"$nofog" "1"
+"$ignorez" "1"
+//"$author" "Alex Dragokas"
+}
